@@ -1,0 +1,13 @@
+{
+    "botName": "coming for you",
+    "botAmount": 2000,
+    "gamePin": 2069074,
+    "joinDelay": 50,
+    "nameBypass": false,
+    "autoReconnect": true,
+    "twoStep": false,
+    "userChoice": false,
+    "__comment": "twoStep is only good for small bot amounts (~15 or so).",
+    "RandomName": true,
+    "NaturalAnswerTime": false
+}
